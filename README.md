@@ -1,3 +1,3 @@
 # Bicycle Sales Analysis
 Data Analytics Projects
-<img src=
+<img src="GRU_D1.png">
